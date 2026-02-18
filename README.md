@@ -128,8 +128,8 @@ npm start
 
 ## ✍️ Authors
 
-Team ID :  LTVIP2026TMIDS54589
--Team Leader : Jampala Hemanth Guru
--Team member : Sathish Edagottu
--Team member : A Maneesh Kumar Reddy
--Team member : E Sunil Reddy
+Team ID :  LTVIP2026TMIDS54589                                                                                                                                                                       
+-Team Leader : Jampala Hemanth Guru                                                                                                                                                                  
+-Team member : Sathish Edagottu                                                                                                                                                                      
+-Team member : A Maneesh Kumar Reddy                                                                                                                                                                 
+-Team member : E Sunil Reddy                                                                                                                                                                       
